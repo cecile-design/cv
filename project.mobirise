@@ -601,7 +601,7 @@
             }
           },
           "_name": "slider1",
-          "_customHTML": "<section class=\"carousel slide\" group=\"Sliders &amp; Gallery\" plugins=\"YTPlayer,VimeoPlayer,SliderVideo,BootstrapCarouselSwipe\" data-interval=\"false\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"carousel\" title=\"Diapositives\" name=\"slides\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-carousel=\"slides\" class=\"full-screen\" mbr-carousel-embedded=\"\"></div>\n\n</section>",
+          "_customHTML": "<section class=\"carousel slide\" group=\"Sliders & Gallery\" plugins=\"YTPlayer,VimeoPlayer,SliderVideo,BootstrapCarouselSwipe\" data-interval=\"false\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"carousel\" title=\"Diapositives\" name=\"slides\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-carousel=\"slides\" class=\"full-screen\" mbr-carousel-embedded></div>\n\n</section>",
           "_anchor": "slider1-1a",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -620,7 +620,7 @@
             "slides__showBullets": false,
             "slides": [
               {
-                "image": "@THEME_PATH@/components/_images/background1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/01-slider-5-1920x1280.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -637,8 +637,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour MAC</a>"
               },
               {
-                "image": "@THEME_PATH@/components/_images/background2.jpg",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/02-slider-1920x1280.jpg",
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -654,8 +654,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour MAC</a>"
               },
               {
-                "image": "@THEME_PATH@/components/_images/background3.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/01-slider-4-1920x1280.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
